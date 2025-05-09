@@ -1,7 +1,6 @@
 #`pip install -r requirements_fixed.txt`
 numpy==1.18.5
 scipy==1.4.1 
---no-build-isolation chumpy==0.69
 scikit-image==0.15 
 opencv-python==4.1.1.26 
 scikit-image==0.15 
@@ -14,3 +13,5 @@ packaging
 scipy
 facenet-pytorch
 fvcore
+--no-build-isolation
+chumpy==0.69
