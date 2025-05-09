@@ -10,5 +10,4 @@ kornia==0.4.0
 ninja
 packaging
 scipy
-facenet-pytorch
 fvcore
